@@ -1,0 +1,2 @@
+"""QuickScribe backend application package."""
+
