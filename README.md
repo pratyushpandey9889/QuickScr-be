@@ -59,7 +59,7 @@ npm install
 npm run dev
 ```
 
-The workbench is available at `http://127.0.0.1:3000`.
+The workbench is available at `http://127.0.0.1:3000/`.
 
 On Windows, this repository path contains `!`, which can confuse Next/Webpack. Use the helper scripts from the repository root:
 
